@@ -7,5 +7,6 @@ function drag(id)
 	obj.onmousedown=function(){
 	var disX=0;
 	var disY=0;
+	var i,j;
 	}
 }
